@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "image": "/images/Marble.jpg",
+    "title": "Chloe",
+    "category": "Women"
+  },
+  {
+    "id": "2",
+    "image": "/images/blue.jpg",
+    "title": "Louis Victon",
+    "category": "Men"
+  },
+  {
+    "id": "3",
+    "image": "/images/Hotel.jpg",
+    "title": "Chloe",
+    "category": "Kids"
+  },
+  {
+    "id": "4",
+    "image": "/images/Ngo.jpg",
+    "title": "Puma",
+    "category": "Men"
+  },
+  {
+    "id": "5",
+    "image": "/images/dark.jpg",
+    "title": "Gucci",
+    "category": "Unisex"
+  },
+  {
+    "id": "6",
+    "image": "/images/Linear.jpg",
+    "title": "Versace",
+    "category": "women"
+  }
+]
